@@ -59,12 +59,6 @@ This project simplifies legal text by generating concise summaries and translati
 
 ---
 
-## 📷 UI Preview
-
-(Add screenshots here)
-
----
-
 ## ⚙️ Installation
 
 ```bash
